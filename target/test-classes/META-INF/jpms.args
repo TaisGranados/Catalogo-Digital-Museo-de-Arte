@@ -1,0 +1,4 @@
+--patch-module
+CatalogoArte=_
+--add-reads
+CatalogoArte=ALL-UNNAMED
